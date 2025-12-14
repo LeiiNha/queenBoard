@@ -18,3 +18,9 @@ Unfortunately I did not have enough time to improve changes, but here's my todo 
   - Retrieve and create separated files for AssistingViews
 - Re-adapt the tests after changes
   
+
+# App Preview
+
+
+https://github.com/user-attachments/assets/050b99f8-2924-4476-b63b-bde7e0dd507d
+
